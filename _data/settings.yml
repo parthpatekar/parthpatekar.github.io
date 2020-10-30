@@ -26,13 +26,8 @@ resume:
 # Pad/Resize images: convert ${f} -channel rgba -alpha set -resize 600x340 -background 'rgba(100%,100%,100%,0.0)' -gravity center -extent 600x340 ${f}
 
 projects:
-- {name: Grain Boundary Network Topology (Dissertation),    folder: 'proj-1', file: 'work/proj-1.html'}
-- {name: Solid State Coarsening for Additive Manufacturing, folder: 'proj-2', file: 'work/proj-2.html'}
-- {name: Scientific Software Development,                   folder: 'proj-3', file: 'work/proj-3.html'}
-- {name: Polycrystalline Grain Topology Algorithm,          folder: 'proj-4', file: 'work/proj-4.html'}
-- {name: Numerical Methods,                                 folder: 'proj-5', file: 'work/proj-5.html'}
-- {name: Sourdough Bread,                                   folder: 'proj-6', file: 'work/proj-6.html'}
-
+- {name: Limb-O: real-time comparison and visualization of lower limb motions, folder: 'proj-1', file: 'work/proj-1.html'}
+- {name: Unsupervised Approach for Monitoring Satire on Social Media, folder: 'proj-2', file: 'work/proj-2.html'}
 
 #-------------------------------
 # Contact Section
