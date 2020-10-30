@@ -26,6 +26,7 @@ resume:
 # Pad/Resize images: convert ${f} -channel rgba -alpha set -resize 600x340 -background 'rgba(100%,100%,100%,0.0)' -gravity center -extent 600x340 ${f}
 
 projects:
+- {name: 'Coming Soon!...Under review for CHI 2021',                                folder: 'proj-0', file: 'work/proj-0.html'}
 - {name: 'Limb-O: real-time comparison and visualization of lower limb motions',    folder: 'proj-1', file: 'work/proj-1.html'}
 - {name: 'Unsupervised Approach for Monitoring Satire on Social Media',             folder: 'proj-2', file: 'work/proj-2.html'}
 
