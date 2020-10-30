@@ -1,5 +1,7 @@
 {: .imgcenter}
 ![Limb-O]({{ site.github.url }}/assets/img/work/proj-2/thumb.png)
+*Android app and sensors on the leg*
+
 Since the rise in popularity of video-sharing platforms such as Youtube, learning 
 new skills from the comfort of one's own home has become more accessible than 
 ever. Though such independent learning methods are useful, they lack the 
