@@ -14,3 +14,5 @@ game that highlights imperfections and allows for tracking of progress over time
 A user validation study was run which confirmed that Limb-O outperforms 
 traditional video learning methods both quantitatively and qualitatively, by
 providing objective feedback that keeps users engaged.
+
+[Video](https://drive.google.com/file/d/1LN2HHEiHUzR_AthU_79Vu3ptAsIXOaHy/view?usp=sharing)
