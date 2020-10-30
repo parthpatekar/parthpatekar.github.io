@@ -2,7 +2,7 @@
 # General Site Settings
 
 title: Parth Patekar
-description: Theorist // Engineer // Wordsmith
+description: Computer Scientist // Mathematician // HCI Researcher
 email: trevor@trevorkeller.com
 
 menu:
@@ -15,7 +15,7 @@ menu:
 # About Section
 
 blurb: >
-  **Trevor specializes in kinetic models** for microstructural evolution in metal alloys. He is currently a postdoc at NIST, studying precipitate aging in additively manufactured superalloys using phase-field methods and computational thermodynamics.
+  **Parth specializes in Human-Computer Interaction and Machine Learning**. He works at Samsung R&D Bangalore as a Senior Engineer in Visual Intelligence R&D Team. He has experience working at HCI lab, University of Manitoba and Machine Translation and NLP Lab, IIIT-Hyderabad.
 
 resume:
 - {format: 'PDF', url: '/assets/Resume.pdf', tail: ' or '}
