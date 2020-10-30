@@ -15,10 +15,10 @@ menu:
 # About Section
 
 blurb: >
-  **Parth specializes in Human-Computer Interaction and Machine Learning**. He works at Samsung R&D Bangalore as a Senior Engineer in Visual Intelligence R&D Team. He has experience working at HCI lab, University of Manitoba and Machine Translation and NLP Lab, IIIT-Hyderabad.
+  **Parth specializes in HCI and Machine Learning**. He works at Samsung R&D Bangalore as a Senior Engineer in Visual Intelligence R&D Team. He has experience working at HCI lab, University of Manitoba and Machine Translation and NLP Lab, IIIT-Hyderabad.
 
 resume:
-- {format: 'PDF', url: '/assets/Resume.pdf', tail: ' or '}
+- {format: 'PDF', url: '/assets/Resume.pdf', tail: ''}
 
 
 #-------------------------------
