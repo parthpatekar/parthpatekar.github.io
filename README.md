@@ -1,4 +1,4 @@
-# Trevor Keller's Portfolio
+# Parth Patekar's Portfolio
 
 This site is built on [Artist's Theme](https://devtips.github.io/Artists-Theme/),
 an exemplary professional portfolio designed by [Travis Neilson](https://www.youtube.com/DevTipsForDesigners)
